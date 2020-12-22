@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Dias
     Private Sub ButtonLunes_Click(sender As Object, e As EventArgs) Handles ButtonLunes.Click
         LabelDiaSemana.Text = "Lunes"
     End Sub
